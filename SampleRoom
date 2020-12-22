@@ -1,0 +1,13 @@
+class Wall,400,100,500,3
+class Wall,900,100,50,1
+class Wall,900,150,150,3
+class Wall,1050,150,350,1
+class Wall,1050,500,75,2
+class Wall,975,500,50,1
+class Wall,975,550,350,2
+class Wall,625,550,25,0
+class Wall,625,525,60,2
+class Wall,565,525,40,2
+class Wall,525,525,25,1
+class Wall,525,550,125,2
+class Wall,400,550,450,0
