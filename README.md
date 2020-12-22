@@ -9,9 +9,10 @@ Before you can start planning make sure you have a version of Java installed (ht
 Just double click the RoomPlanner.jar and you should be ready to go.
 
 The app is able to load multiple files at the same time so you can have your furniture in a seperate file.
-This is useful if you move so you do not have to enter all you furniture again. 
+This is useful whenever you move so you do not have to add all you furniture by hand again. 
 
 RIGHT-Click to rotate
+Hover to see sizes.
 
 might add the source code later.
 
